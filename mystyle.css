@@ -1,0 +1,26 @@
+.buttons{
+  background-color: #940445;
+  text-align: center;
+  height: 120px;
+  width:120px;
+  border-radius: 50%;
+  top:40px;
+  left:50%;
+
+}
+.container{
+    width: 300px;
+    display:grid;
+    grid-template-columns: repeat(auto-fit,minmax(350px,1fr));
+    grid-gap:15px;
+    margin:0 auto;
+      border: 30px #c9819d;
+        padding: 50px;
+        margin: 20px;
+
+}
+.p {
+  color:#9e184c;
+font-size:150px;
+font-family: sans-serif;
+}
