@@ -24,3 +24,14 @@
 font-size:150px;
 font-family: sans-serif;
 }
+.solo{  width: 100px;
+  display:grid;
+  grid-template-columns: repeat(auto-fit,minmax(350px,1fr));
+  grid-gap:15px;
+  margin:0 auto;
+    border: 30px #c9819d;
+      padding: 50px;
+      margin: 20px;
+
+
+}
